@@ -1,0 +1,1 @@
+# Speechly enables full browser compability for Web Speech API
